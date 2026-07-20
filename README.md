@@ -37,3 +37,6 @@ Componente a utilizar
 
 [![Ver en Tinkercad](https://img.shields.io/badge/Tinkercad-Ver%20circuito-1DA1F2?style=for-the-badge&logo=circuitverse&logoColor=white)](https://www.tinkercad.com/things/80a7hqd5J5I-neat-jaban/editel?sharecode=zQ_WPvazOxmPAgVmV1MEMdC8mczOgDKwfsoI-IO7JPY)
 
+## 💻 Código
+El código completo está en [`src/caja_secretos.ino`](src/caja_secretos.ino).
+

@@ -17,7 +17,7 @@ El sistema tiene dos modos:
 Modo de configuración — al encender el Arduino, "escucha" tres pulsaciones de botón y las guarda como la combinación secreta.
 Modo de verificación — a partir de ese momento, cada intento de tres botones se compara contra la combinación guardada.
 
-✅ Combinación correcta	❌ Combinación incorrecta
+Combinación correcta y Combinación incorrecta
 LED verde se enciende, suena un tono de éxito y LED rojo se enciende, suena un tono de error y el sistema queda listo para un nuevo intento
 
 Componente a utilizar

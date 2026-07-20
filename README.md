@@ -18,7 +18,8 @@ Modo de configuración — al encender el Arduino, "escucha" tres pulsaciones de
 Modo de verificación — a partir de ese momento, cada intento de tres botones se compara contra la combinación guardada.
 
 ✅ Combinación correcta	❌ Combinación incorrecta
-LED verde se enciende, suena un tono de éxito y (si hay servo) la tapa se abre	LED rojo se enciende, suena un tono de error y el sistema queda listo para un nuevo intento
+LED verde se enciende, suena un tono de éxito y LED rojo se enciende, suena un tono de error y el sistema queda listo para un nuevo intento
 
-🔧 Componentes utilizados
-![Componentes utilizados](assets/Componentes.png)
+Componente a utilizar
+<img width="1128" height="267" alt="image" src="https://github.com/user-attachments/assets/4b17eecb-d54c-4366-83bf-0bb8c26f7e77" />
+

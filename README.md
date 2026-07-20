@@ -21,3 +21,4 @@ Modo de verificación — a partir de ese momento, cada intento de tres botones 
 LED verde se enciende, suena un tono de éxito y (si hay servo) la tapa se abre	LED rojo se enciende, suena un tono de error y el sistema queda listo para un nuevo intento
 
 🔧 Componentes utilizados
+![Componentes utilizados](assets/Componentes.png)

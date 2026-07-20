@@ -23,3 +23,17 @@ LED verde se enciende, suena un tono de éxito y LED rojo se enciende, suena un 
 Componente a utilizar
 <img width="1128" height="267" alt="image" src="https://github.com/user-attachments/assets/4b17eecb-d54c-4366-83bf-0bb8c26f7e77" />
 
+| Componente | Cantidad | Función |
+|---|---|---|
+| Arduino Uno | 1 | Controlador principal del sistema |
+| Pulsadores (push buttons) | 3 | Ingreso de la combinación |
+| Recistencias | 2 | Recistencias de los leds |
+| LED verde | 1 | Indica combinación correcta |
+| LED rojo | 1 | Indica combinación incorrecta |
+| Buzzer | 1 | Sonido de éxito / error |
+| Servomotor (opcional) | 1 | Apertura física de la tapa de la caja |
+| Protoboard | 1 | Montaje del circuito |
+| Cables jumper | Varios | Conexiones entre componentes |
+
+[![Ver en Tinkercad](https://img.shields.io/badge/Tinkercad-Ver%20circuito-1DA1F2?style=for-the-badge&logo=circuitverse&logoColor=white)](https://www.tinkercad.com/things/80a7hqd5J5I-neat-jaban/editel?sharecode=zQ_WPvazOxmPAgVmV1MEMdC8mczOgDKwfsoI-IO7JPY)
+
